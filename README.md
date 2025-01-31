@@ -34,7 +34,7 @@
 - Analyzed software navigation system failures
 - Explored contributing factors to aircraft crash
 
-## Technologies Used
+## Technologies & Skills Used
 - Oracle PL/SQL
 - Database Transaction Management
 - Error Handling
