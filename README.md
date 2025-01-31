@@ -1,4 +1,4 @@
-# Database Programming Assignments
+# 307 Database Projects
 
 ## Course: CPRG 307 - Database Programming
 
